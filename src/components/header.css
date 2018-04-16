@@ -1,0 +1,16 @@
+.navbar {
+    min-height: 80px;
+    width: 100%;
+    text-align: center;
+    background: #4db8ff;
+}
+.App-title {
+    font-size: x-large;
+    color: whitesmoke;
+}
+.App-logo {
+    height:100px;
+}
+.App-header {
+    background-image: url('https://vignette.wikia.nocookie.net/simpsons/images/b/b7/Simspons_Clouds.jpg/revision/latest?cb=20100824223324');
+}
