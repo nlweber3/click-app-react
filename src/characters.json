@@ -1,46 +1,57 @@
 [
-    {
-      "id": 1,
-      "name": "APU",
-      "image": "./apu.jpg",
-    },
-    {
-        "id": 2,
-        "name": "barmey",
-        "image": "./barney.jpg",
-      },
-      {
-        "id": 1,
-        "name": "APU",
-        "image": "./apu",
-      },
-      {
-        "id": 1,
-        "name": "APU",
-        "image": "./apu",
-      },
-      {
-        "id": 1,
-        "name": "APU",
-        "image": "./apu",
-      },
-      {
-        "id": 1,
-        "name": "APU",
-        "image": "./apu",
-      },
-      {
-        "id": 1,
-        "name": "APU",
-        "image": "./apu",
-      },
-      {
-        "id": 1,
-        "name": "APU",
-        "image": "./apu",
-      },
-      {
-        "id": 1,
-        "name": "APU",
-        "image": "./apu",
-      },
+  {
+    "id": 1,
+    "name": "APU",
+    "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/swsb_character_fact_apu_550x960.png"
+  },
+  {
+    "id": 2,
+    "name": "BARNEY GUMBLE",
+    "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/swsb_character_fact_barney_550x960.png"
+  },
+  {
+    "id": 3,
+    "name": "BUMBLEBEEMAN",
+    "image": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_bumblebeeman_1200x1200.jpg"
+  },
+  {
+    "id": 4,
+    "name": "KRUSTY",
+    "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/simpsons-character/Krusty/swsb_character_fact_krusty_550x960.png"
+  },
+  {
+    "id": 5,
+    "name": "LIONEL HUTZ",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/e/ed/Lionel_Hutz.png/revision/latest/scale-to-width-down/321?cb=20171127153913"
+  },
+  {
+    "id": 6,
+    "name": "MOE SZYSLAK",
+    "image": "https://vignette.wikia.nocookie.net/parody/images/e/e6/Moe_Szyslak_alt.png/revision/latest?cb=20161106161151"
+  },
+  {
+    "id": 7,
+    "name": "MR. BURNS",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/a/a7/Montgomery_Burns.png/revision/latest?cb=20100602062705"
+  },
+  {
+    "id": 8,
+    "name": "TROY MCCLURE",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/f/f7/Troy_McClure.png/revision/latest?cb=20171004211558"
+  },
+  {
+    "id": 8,
+    "name": "DR. NICK",
+    "image": "https://assets.fxnetworks.com/cms/prod/shows/the-simpsons/photos/swsb_character_fact_drnick_550x960.png"
+  },
+  {
+    "id": 9,
+    "name": "CHIEF WIGGUM",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/0e/245px-Chief_Wiggum.png/revision/latest?cb=20140830013250"
+  },
+  {
+    "id": 10,
+    "name": "HOMER SIMPSON",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Homer_Simpson_2006.png/220px-Homer_Simpson_2006.png"
+  }
+]
