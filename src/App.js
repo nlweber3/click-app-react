@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 import './App.css';
 import CharacterCard from './components/characters';
 import characters from './characters.json';
-import logo from './homer simpson.gif';
-import Wrapper from "./components/wrapper";
+import Wrapper from './components/wrapper';
+import Header from './components/header'
 
 
 
@@ -14,15 +14,8 @@ class App extends Component {
   };
   render() {
     return (
-      // <div className="App">
-      //   <header className="App-header">
-      //     <img src={logo} className="App-logo" alt="logo" />
-      //     <h1 className="App-title">SIMPSONS CLICKY GAME</h1>
-      //   </header>
-      //   <p className="App-intro">
-      //   </p>
-      // </div>
       <Wrapper>
+        <Header />
        {this.state.characters.map(character => (
         <CharacterCard
           id={character.id}

@@ -53,5 +53,25 @@
     "id": 10,
     "name": "HOMER SIMPSON",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Homer_Simpson_2006.png/220px-Homer_Simpson_2006.png"
+  },
+  {
+    "id": 11,
+    "name": "BART SIMPSON",
+    "image": "https://upload.wikimedia.org/wikipedia/hr/6/65/Bart_Simpson.png"
+  },
+  {
+    "id":12,
+    "name": "GROUNDSKEEPER WILLIE",
+    "image": "https://upload.wikimedia.org/wikipedia/lv/d/dc/GroundskeeperWillie.png"
+  },
+  {
+    "id":13,
+    "name": "FAT TONY",
+    "image": "https://static.simpsonswiki.com/images/thumb/9/9d/Fat_Tony_Tapped_Out_Artwork.png/250px-Fat_Tony_Tapped_Out_Artwork.png"
+  },
+  {
+    "id": 14,
+    "name": "NED FLANDERS",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/8/84/Ned_Flanders.png/revision/latest?cb=20100513160156"
   }
 ]
