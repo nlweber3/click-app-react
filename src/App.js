@@ -12,6 +12,7 @@ class App extends Component {
   state= {
     characters
   };
+
   render() {
     return (
       <Wrapper>
